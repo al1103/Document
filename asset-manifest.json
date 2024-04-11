@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Document/static/css/main.047d7dc3.css",
+    "main.js": "/Document/static/js/main.382349e2.js",
+    "static/js/453.6f2e229a.chunk.js": "/Document/static/js/453.6f2e229a.chunk.js",
+    "static/media/LOGO.png": "/Document/static/media/LOGO.1eeb75f1788083ad34a4.png",
+    "static/media/movie-detail-bg.png": "/Document/static/media/movie-detail-bg.24a8ff8834225fb5e476.png",
+    "static/media/upcoming-bg.png": "/Document/static/media/upcoming-bg.3543fdf973695b573f31.png",
+    "static/media/hero-bg.jpg": "/Document/static/media/hero-bg.5ed0b8d3e0bab7812ba9.jpg",
+    "static/media/cta-bg.jpg": "/Document/static/media/cta-bg.b49b50505c718bb828f1.jpg",
+    "static/media/footer-bg.jpg": "/Document/static/media/footer-bg.6b41023ee51e6eceae64.jpg",
+    "static/media/top-rated-bg.jpg": "/Document/static/media/top-rated-bg.b345ea7c7de0dea24feb.jpg",
+    "static/media/service-bg.jpg": "/Document/static/media/service-bg.ce9c5e6d87c2e8b92af5.jpg",
+    "static/media/tv-series-bg.jpg": "/Document/static/media/tv-series-bg.a5091c5e1811c9c691ab.jpg",
+    "index.html": "/Document/index.html",
+    "main.047d7dc3.css.map": "/Document/static/css/main.047d7dc3.css.map",
+    "main.382349e2.js.map": "/Document/static/js/main.382349e2.js.map",
+    "453.6f2e229a.chunk.js.map": "/Document/static/js/453.6f2e229a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.047d7dc3.css",
+    "static/js/main.382349e2.js"
+  ]
+}
